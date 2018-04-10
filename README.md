@@ -4,11 +4,13 @@
 
 ## Build Setup
 
-``` bash
 
 
 #项目地址
 [http://vue.codemobile.cn/pos](http://vue.codemobile.cn/pos/)
+
+
+``` bash
 
 # install dependencies
 npm install
